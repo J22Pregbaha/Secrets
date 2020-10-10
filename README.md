@@ -8,3 +8,6 @@ $ git clone git@github.com:passport/express-4.x-facebook-example.git
 $ cd express-4.x-facebook-example
 $ npm install
 ```
+
+## To-Do
+* Enable OAuth for facebook
